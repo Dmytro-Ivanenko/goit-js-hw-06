@@ -1,3 +1,5 @@
+"use strict";
+
 const ingredients = ["Potatoes", "Mushrooms", "Garlic", "Tomatos", "Herbs", "Condiments"];
 debugger;
 const ingredientsList = document.querySelector("[id = ingredients]");
